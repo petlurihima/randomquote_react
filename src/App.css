@@ -1,0 +1,42 @@
+*{
+  background-color: #537895;
+}
+.heading{
+  text-align: center;
+}
+.container{
+  height:300px;
+  width:500px;
+  border:1px solid black;
+  margin-top: 60px;
+  margin-left: 390px;
+  background-color: white;
+  box-sizing: border-box;
+  position: relative;
+}
+.container h2{
+  text-align: center;
+  background-color: transparent;
+}
+.container p{
+  background-color: transparent;
+  text-align: center;
+  font-weight: 40px;
+}
+.container p em{
+  background-color: transparent;
+  display: block;
+  text-align: right;
+  width: 90%;
+  margin-top: 10px;
+}
+.container button{
+  background-color:darkgray;
+  height:50px;
+  width:100px;
+  font-weight: 60px;
+  position: absolute;
+  bottom: 50px;
+  right: 50px;
+  border-radius: 20px;
+}
